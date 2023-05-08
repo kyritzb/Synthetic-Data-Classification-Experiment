@@ -4,3 +4,5 @@ This project investigates the impact of generative AI on the performance of conv
 
 
 Data Download: https://drive.google.com/drive/folders/1OiczOR1XL3g0A0TXQryzC6PhrivzBytS?usp=share_link
+
+the data should be at the root of the project directory in the folder named "data".
